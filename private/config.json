@@ -1,9 +1,16 @@
 {
-  "configID": 001,
+  "otherdata": {
+    "test": "test1",
+    "test2": "test2"
+  },
   "credentials": [
     {
       "username": null,
       "password": null
+    },
+    {
+      "username": null,
+      "username": null
     }
   ]
 }
