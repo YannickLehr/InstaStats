@@ -2,6 +2,7 @@ stats/*
 !stats/.gitkeep
 private/*
 !private/.gitkeep
+config/*
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
